@@ -1,2 +1,2 @@
 # WinProcessListWatch
-Monitoring birth and death for Windows processes
+Monitoring birth and death of Windows processes
